@@ -15,4 +15,6 @@ Learn everything you need to about the subject of this `Tutorial` project.
 
 ## Topics
 ```
+[x] 1. Erlang EUnit – introduction
+[ ] 2. Erlang EUnit – continuation 2 – Test Representation
 ```
